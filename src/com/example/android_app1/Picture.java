@@ -11,6 +11,10 @@ public class Picture {
 	int getWeight() {
 		return weight;
 	}
+	
+	void setHeight(int height) {
+		this.height = height;
+	}
 }
 
 
